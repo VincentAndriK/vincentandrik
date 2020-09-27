@@ -38,7 +38,7 @@
 - Pembuatan Logo dan Ikon Situs Web
 
 **Sisi Fungsi**
-Akan dirilis : _To Do List_, Dirgahayu Republik Indonesia (Beta), Perhitungan Geometri (Rumus Bangun), Game Tic Tac Toe, Game Rock - Scissors - Paper
+- Akan dirilis : _To Do List_, Dirgahayu Republik Indonesia (Beta), Perhitungan Geometri (Rumus Bangun), Game Tic Tac Toe, Game Rock - Scissors - Paper
 
 **Rencana Waktu Pengembangan**
-Direncanakan maksimal akhir tahun 2020 sudah ada beberapa hal yang diperbaiki atau dikembangkan
+- Direncanakan maksimal akhir tahun 2020 sudah ada beberapa hal yang diperbaiki atau dikembangkan
